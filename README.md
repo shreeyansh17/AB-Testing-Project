@@ -24,7 +24,8 @@ This project performs A/B testing to compare two versions (A and B) of a feature
 Although Version B appears better, the result is not statistically significant. More data should be collected before making a final decision.
 
 ## 📊 Visualization
-(You can add screenshot here)
+
+![A/B Test Chart](images/ab_test_chart.png)
 
 ## 🚀 How to Run
 1. Navigate to scripts folder  
