@@ -1,0 +1,14 @@
+A/B Testing Summary
+
+Conversion Rate:
+A = 50%
+B = 80%
+
+P-value = 0.176 (> 0.05)
+
+Conclusion:
+No statistically significant difference.
+
+Recommendation:
+Do not deploy Version B yet.
+Collect more data for better confidence.
